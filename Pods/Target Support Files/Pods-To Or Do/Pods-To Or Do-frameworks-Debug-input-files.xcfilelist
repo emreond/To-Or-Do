@@ -1,0 +1,8 @@
+${PODS_ROOT}/Target Support Files/Pods-To Or Do/Pods-To Or Do-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Bond/Bond.framework
+${BUILT_PRODUCTS_DIR}/Differ/Differ.framework
+${BUILT_PRODUCTS_DIR}/FaveButton/FaveButton.framework
+${BUILT_PRODUCTS_DIR}/RSKPlaceholderTextView/RSKPlaceholderTextView.framework
+${BUILT_PRODUCTS_DIR}/ReactiveKit/ReactiveKit.framework
+${BUILT_PRODUCTS_DIR}/Realm/Realm.framework
+${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework
